@@ -1,6 +1,6 @@
 /*
  * Describe: 对 Zookeeper 的封装，实现创建节点和节点监听功能
- * Author：LiuYang
+ * Author：wangdaming
  * Date: 2017-06-29
  * */
 #include "Zookeeper.h"

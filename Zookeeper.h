@@ -1,6 +1,6 @@
 /*
  * Describe: 对 Zookeeper 的封装，实现创建节点和节点监听功能
- * Author：LiuYang
+ * Author：wangdaming
  * Date: 2017-06-29
  * Other: 关于 Zookeeper C API 相关资料请参考：http://www.cnblogs.com/haippy/archive/2013/02/21/2920280.html
  * */
